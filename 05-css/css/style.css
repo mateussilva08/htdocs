@@ -1,0 +1,22 @@
+/* # --> id */
+/* . --> Classe */
+/* tag --> tag HTML (ex: body) */
+
+body{
+color: white;
+
+    background-color: rgb(58, 58, 58);
+}
+
+
+.retangulos {
+    position: relative;
+    float: left;
+    width: 100px;
+    height: 200px;
+    background-color: brown;
+    margin-left: 5%;
+    margin-top: 5%;
+
+    
+}

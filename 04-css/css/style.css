@@ -1,0 +1,30 @@
+#retangulo1{
+    position:absolute;
+    top: 50px;
+    left: 50px;
+    width: 150px;
+    height: 200px;
+    background-color: blue;
+
+    border-radius: 5%;
+}
+#retangulo2{
+    position: absolute;
+    top: 50px;
+    left: 225px;
+    width: 150px;
+    height: 200px;
+    background-color: darkmagenta;
+
+    border-radius: 5%;
+}
+#retangulo3{
+      position:absolute ;  
+    top: 50px;
+    left: 400px;
+    width: 150px;
+    height: 200px;
+    background-color: brown;
+
+    border-radius: 5%;
+}
